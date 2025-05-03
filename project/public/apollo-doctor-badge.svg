@@ -1,0 +1,6 @@
+<svg width="50" height="50" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="25" cy="25" r="24" fill="#FFFFFF" />
+  <path d="M25 2C12.3 2 2 12.3 2 25s10.3 23 23 23 23-10.3 23-23S37.7 2 25 2zm0 42c-10.5 0-19-8.5-19-19S14.5 4 25 4s19 8.5 19 19-8.5 19-19 19z" fill="#0067A5"/>
+  <text x="25" y="22" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="5" fill="#0067A5">APOLLO</text>
+  <text x="25" y="30" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="6" fill="#0067A5">DOCTOR</text>
+</svg> 
